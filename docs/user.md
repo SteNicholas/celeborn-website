@@ -159,4 +159,10 @@ companyItemImg {
    <div class="companyItem">
        <img class="companyItemImg" src="../assets/logo/users/antgroup.png" style="transform: scale(3);">
     </div>
+   <div class="companyItem">
+       <img class="companyItemImg" src="../assets/logo/users/qutoutiao.png">
+    </div>
+   <div class="companyItem">
+       <img class="companyItemImg" src="../assets/logo/users/dewu.png">
+    </div>
 </div>
