@@ -23,6 +23,7 @@ license: |
 | Binjie Yang         |
 | Chandni Singh       |
 | Cheng Pan           |
+| Erik Fang           |
 | Ethan Feng          |
 | Fei Wang            |
 | Fu Chen             |
